@@ -25,7 +25,7 @@ Playful cursors
 
 
 ***다이내믹 스크롤
-Dynamic scrolling
+Dynamic scrollinglll
 다이내믹 스크롤은 2022년의 최신 웹디자인 트렌드입니다.
 한 버전의 다이내믹 스크롤은 사이트의 전반적인 전경 및 배경에서 서로 다른 스크롤 속도를 
 설정하여 방문자들에게 3D 효과를 제공합니다.
